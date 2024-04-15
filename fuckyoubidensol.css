@@ -585,6 +585,7 @@ button.buy {
 
 .underw {
 	margin-top: 130px;
+	white-space: nowrap;
 }
 
 .cont h2 {
